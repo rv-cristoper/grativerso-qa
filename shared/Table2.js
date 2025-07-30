@@ -1,0 +1,1 @@
+import{j as r}from"./global.js";import{c as m}from"./index3.js";const a=({children:o,className:s})=>r.jsx("div",{className:m(s,"promos-v3-flex promos-v3-flex-col promos-v3-shadow promos-v3-rounded-b-2xl"),children:o});export{a as T};

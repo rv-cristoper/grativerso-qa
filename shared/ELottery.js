@@ -1,0 +1,1 @@
+var u=(A=>(A.BLOQUE1="bloque1",A.BLOQUE2="bloque2",A.BLOQUE3="bloque3",A.BLOQUE4="bloque4",A.BLOQUE5="bloque5",A.BLOQUE6="bloque6",A.BLOQUE7="bloque7",A))(u||{}),L=(A=>(A.SEMANA1="SEMANA 1",A.SEMANA2="SEMANA 2",A.SEMANA3="SEMANA 3",A.SEMANA4="MENSUAL",A))(L||{});export{L as E,u as a};
